@@ -3,6 +3,27 @@ Any spaces in your font name should be replaced with a +.
 Fonts are separated by a & */
 @import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Red+Hat:wght@300&display=swap');
 
+header{
+  background-color: rgb(120, 83, 2);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 150px auto;
+ }
+ .p1{
+  font-family: Tahoma, Verdana, sans-serif;
+  font-size: 20px;
+  line-height: 1.5em;
+  padding: 2px;
+  margin-left: 5px;
+  display: flex;
+  justify-content: space-around;
+  /* justify-self: center; */
+  align-self: center;
+}
+
+
+
+
 :root {
   /* change the values below to your colors from your palette */
   --primary-color: #f213cd3c   ;
