@@ -38,10 +38,10 @@ header{
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #577399 ;  /* headlines on a white background */ 
   --headline-color-on-color: #4fa6f2; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #f213cd3c; /* paragraph text on a white background */ 
+  --paragraph-color-on-white: #f213cd8f; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #f213cd3c  ;
-  --nav-link-color: #f213cd3c;
+  --paragraph-background-color: #f213cd56  ;
+  --nav-link-color: #f213cda3;
   --nav-background-color: #bdd5ea;
   --nav-hover-link-color: #bdd5ea;
   --nav-hover-background-color: #577399;
