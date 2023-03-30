@@ -4,7 +4,7 @@ Fonts are separated by a & */
 @import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Red+Hat:wght@300&display=swap');
 
 header{
-  background-color: #bdd5ea;
+  background-color: #62788b00;
   margin: 0 auto;
   display: grid;
   grid-template-columns: 150px auto;
@@ -69,6 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
   text-align: center;
 }
+
 hr {
   height: 3px;
   margin: 35px 0;
